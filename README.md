@@ -1,2 +1,2 @@
 # agentic-ai-study-notes
-Personal study notes on LLM-driven agentic AI: agents, RAG, tool use, and Python implementations.
+A personal collection of study notes and code on agentic AI powered by large language models. This repository documents my learning journey through autonomous agents, retrieval-augmented generation (RAG), tool integration, planning, and memory—all implemented in Python. The content is organized into self-contained modules, blending conceptual explanations with runnable examples, and serves as a long-term reference for deep learning and rapid prototyping.
