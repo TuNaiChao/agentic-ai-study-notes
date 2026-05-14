@@ -806,7 +806,7 @@ LangChain提供了总结消息的默认实现：**SummarizationMiddleware**
 
 1. 初始化SummarizationMiddleware和checkpointer
    1. ```Python
-      rom langchain.agents import create_agent
+      from langchain.agents import create_agent
       from langchain.agents.middleware import SummarizationMiddleware
       from langgraph.checkpoint.memory import InMemorySaver
       from langchain_core.runnables import RunnableConfig
