@@ -22,7 +22,7 @@ Metadata：元数据
 
 Chunk：文本分块
 
-**Milvus：**一种向量数据库
+**Milvus**： 一种向量数据库
 
 
 
