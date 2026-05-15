@@ -5,7 +5,7 @@
 ```Bash
 uv add langchain-deepseek
 ```
-2. 项目的**.env**环境中配置好**api_key**
+2. 项目的 .env 环境中配置好 api_key
 ```Shell
 DEEPSEEK_API_KEY=sk-xxxx
 ```
